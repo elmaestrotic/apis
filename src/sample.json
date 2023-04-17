@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "pelicula": "Interstellar",
+    "director": "Cristopher Nolan",
+    "año": 2014,
+    "protagonista": "Mathew McConaughey"
+  },
+  {
+    "id": "2",
+    "pelicula": "The Martian",
+    "director": "Steven Spielberg",
+    "año": 2011,
+    "protagonista": "mathew Conhaey"
+  }
+]
