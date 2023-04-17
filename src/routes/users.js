@@ -11,26 +11,3 @@ router.get('/',async(req,res)=>{
 });
 
 module.exports = router
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//https://youtu.be/bK3AJfs7qNY
